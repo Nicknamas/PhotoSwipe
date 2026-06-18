@@ -30,4 +30,4 @@ website/dist/
 .vscode
 .node-version
 .sass-cache/
-dist/
+dist
